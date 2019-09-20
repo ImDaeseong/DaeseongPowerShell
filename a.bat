@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file %~dps0Script.ps1
